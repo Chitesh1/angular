@@ -1,9 +1,0 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
- language: node_js
-language: php
-language: python
-language: java
-language: ruby
